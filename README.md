@@ -40,7 +40,7 @@ The following EXTRA features are implemented:
 
 I have chosen to duplicate the following layout from the **Duolingo** app:
 
-<img src='https://designvault.io/shot/903-1004200509/' title='Chosen Screenshot' width='' alt='Chosen Screenshot' />
+<img src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWw2Nmw3ZDBzNXh2ejJ0dmRxMTF5OWcweGFxdmpjd3ZtbnpybGR0MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tbJpXFiQnSHxxO8gvn/giphy.gif' title='Chosen Screenshot' width='' alt='Chosen Screenshot' />
 
 ## Video Demo
 
